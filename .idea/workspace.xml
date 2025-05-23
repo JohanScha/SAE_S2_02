@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89468439-3e49-4790-ba51-0ed619df049e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainComparaison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SAE_S2_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SAE_S2_02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/BellmanFord.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/BellmanFord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/Dijkstra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainDijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainDijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/Arc.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/Arc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Arc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Arc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Arcs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Arcs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/BellmanFord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/BellmanFord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/GrapheListe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/GrapheListe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/MainDijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/MainDijkstra.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.MainComparaison.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
@@ -54,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainComparaison">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SAE_S2_02" />
@@ -62,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainComparaison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainComparaison" />
+      <module name="SAE_S2_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainComparaison" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
