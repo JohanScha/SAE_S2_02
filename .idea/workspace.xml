@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89468439-3e49-4790-ba51-0ed619df049e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/LireReseau.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/LireReseau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Arc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Arc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Arcs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Arcs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/BellmanFord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/BellmanFord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Graphe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Graphe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/GrapheListe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/GrapheListe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/LireReseau.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/LireReseau.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/MainComparaison.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/MainComparaison.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/MainDijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/MainDijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainMetro.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainMetro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/MainMetro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/MainMetro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Valeurs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Valeurs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +106,7 @@
       <workItem from="1747981059379" duration="2603000" />
       <workItem from="1748001364297" duration="18000" />
       <workItem from="1748261184518" duration="7652000" />
+      <workItem from="1748270664855" duration="530000" />
     </task>
     <servers />
   </component>
