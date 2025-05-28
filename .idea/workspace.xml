@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89468439-3e49-4790-ba51-0ed619df049e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/BellmanFord.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/BellmanFord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/Dijkstra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/LireReseau.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/LireReseau.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainMetro.java" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation_d'un_problème_algorithmique/src/MainMetro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/BellmanFord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/BellmanFord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/Dijkstra.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/LireReseau.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/LireReseau.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SAE_S2_02/MainMetro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAE_S2_02/MainMetro.class" afterDir="false" />
     </list>
@@ -115,6 +112,7 @@
       <workItem from="1748272833982" duration="1158000" />
       <workItem from="1748274048119" duration="169000" />
       <workItem from="1748422813950" duration="420000" />
+      <workItem from="1748436795096" duration="2891000" />
     </task>
     <servers />
   </component>
